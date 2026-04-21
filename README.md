@@ -48,7 +48,7 @@ The assessment identified multiple security issues, including:
 This assessment was conducted for educational purposes as part of the Future Interns Cyber Security Internship. The target site is an intentionally vulnerable demo environment.
 
 ## Author
-- **Name:**Lizo
+- **Name:**Lizo Ndawana
 - **CIN ID:** FIT/MAR26/CS7183
 
 ## Internship
